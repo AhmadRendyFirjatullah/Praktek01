@@ -17,6 +17,7 @@ public class Mahasiswa {
         System.out.println("Nama : "+nama);
         System.out.println("NPM  : "+NPM);
         System.out.println("IPK  : "+IPK);
+        
     }
     
 }
